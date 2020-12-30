@@ -7,8 +7,7 @@
 
 				<div class="column three">
 					<strong>Location</strong>
-					123 Sunset Boulevard
-					L.A. California
+					203 Mott St, New York, NY 10012
 				</div><!-- column three -->
 
 				<div class="column three last">
@@ -21,13 +20,15 @@
 					4:00pm - 11:00pm<br><br>
 
 					<em>Sunday - Monday</em><br>
-					Closed<br>
+					Closed<br><br>
+
+					<?php include('./assets/includes/store-hours.php'); ?>
 
 				</div><!-- column three -->
 
 			</div><!-- footer -->
 
-			<small>@copy 2020 created by Dezareo</small>
+			<small>@copy <?php echo date('Y'); ?> | <?php echo $companyName; ?></small>
 
 		</div><!-- content -->
 
