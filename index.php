@@ -9,7 +9,9 @@
 	<div class="wrapper">
 
 		<div id="banner">
-
+			<a href="/" title="Return to Home">
+				<img src="./assets/img/banner.png" alt="Franklin's Fine Dining">
+			</a>
 		</div><!-- banner -->
 
 		<div id="nav">
