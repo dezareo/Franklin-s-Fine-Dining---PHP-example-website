@@ -4,7 +4,11 @@
 		<title>Index Page</title>
 	</head>
 <body>
-	<?php echo('Hello World.'); ?>
+	<?php
+	//this is first php script
+	echo "Hello World!";
+
+	?>
 
 
 </body>
