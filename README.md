@@ -7,4 +7,4 @@
     <a href="#">See the live examples</a>
 </h4>
 <br>
-<p>This is php-website by Brad Hussey series on udemy.com</p>
+<p>This is php-website based on Brad Hussey series - udemy.com</p>
