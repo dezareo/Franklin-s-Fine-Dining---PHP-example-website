@@ -1,3 +1,5 @@
+<?php include('./assets/includes/arrays.php'); ?>
+
 <!DOCTYPE html>
 <html>
 	<head>
