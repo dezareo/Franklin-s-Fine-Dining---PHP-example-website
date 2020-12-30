@@ -1,4 +1,8 @@
-<?php include('./assets/includes/arrays.php'); ?>
+<?php
+ $companyName = "Franklin's Fine Dining";
+ include('./assets/includes/arrays.php'); 
+
+ ?>
 
 <!DOCTYPE html>
 <html>
