@@ -14,7 +14,7 @@
 ```
 project/
 ├── assets/
-│	├── img/
+│   ├── img/
 │   ├── includes/
 │   |   └── arrays.php   // dinamic arrays for php pages (navigacion etc.)
 │   |   └── copyright.php  
