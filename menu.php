@@ -15,6 +15,7 @@ include './assets/includes/header.php';?>
 
 			<?php }?>
 		</ul>
+		<hr>
 	</div><!-- menu-items -->
 
 
