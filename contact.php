@@ -64,7 +64,7 @@ if (isset($_POST['contact_submit'])) {
 
 	?>
 	<!-- Show success message after mail has sent -->
-	<h5>Thansk for contacting us.</h5>
+	<h5>Thanks for contacting us.</h5>
 	<p>Please allow 24 hours for response</p>
 	<p><a href="index.php" class="button block">&laquo; Go to Home Page</a></p>
 
